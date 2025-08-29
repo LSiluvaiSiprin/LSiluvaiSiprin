@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Siluvai Siprin  
+# 👋 Hi, I'm Siluvai Siprin L
 
 🌱 Currently learning **MERN stack & system development**  
 💻 Building projects in **Node.js, React, MongoDB**  
